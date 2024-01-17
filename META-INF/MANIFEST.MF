@@ -1,0 +1,2 @@
+Main-Class: md.ceiti.DepozitTestIO
+
